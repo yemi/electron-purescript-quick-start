@@ -1,0 +1,27 @@
+{
+  "name": "electron-purescript-quick-start",
+  "description": "A minimal Electron application written in PureScript",
+  "main": "main.js",
+  "authors": [
+    "yemi"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "PureScript"
+  ],
+  "homepage": "https://github.com/yemi/electron-purescript-quick-start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-console": "^1.0.0"
+  }
+}
